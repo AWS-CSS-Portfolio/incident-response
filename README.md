@@ -52,7 +52,7 @@ This lab demonstrates **end-to-end automated incident response** in AWS:
 
 ## Diagram
 
-Flow: Compromised EC2 → GuardDuty Finding → EventBridge Rule → Lambda Function → EC2 Quarantine + SNS Alert 
+Compromised EC2 → GuardDuty Finding → EventBridge Rule → Lambda Function → EC2 Quarantine + SNS Alert 
 
 ![Domain 1 Architecture](diagram.png)
 
