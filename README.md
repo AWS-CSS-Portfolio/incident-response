@@ -1,4 +1,4 @@
-# AWS CSS - Domain 1 - Automated Threat Response with AWS GuardDuty + Lambda.
+# AWS CSS - Domain 1 - Automated Threat Response with GuardDuty, Event Bridge & Lambda.
 
 Built an automated incident response workflow in AWS using GuardDuty, EventBridge, Lambda and SNS to detect threats, quarantine compromised EC2 instances and notify the security team in real time.
 
